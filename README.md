@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click to View](https://github.com/Master-X2000/flyo-dark-page)
+- Live Site URL: [Click to View](https://Master-X2000.github.io/flyo-dark-page)
 
 ## My process
 
@@ -46,6 +46,11 @@ const validateEmail = (email) => {
     const isValid = regex.test(email.trim().toLowerCase());
     return isValid;
 };
+```
+Just testing the copy feature of readmes......
+
+```
+Checking stuffs
 ```
 
 ## Author
